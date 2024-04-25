@@ -1,0 +1,110 @@
+
+.factu{
+    width: 1000px;
+    height: 600px;
+    border: 2px solid black;
+    margin: 20px 180px;
+    background-color: aqua;
+
+}
+.factu h2{
+    text-align: center;
+   padding-top: 10px;
+}
+
+/*estilos para la tabla*/
+.tabla{
+    padding-top: 10px;
+    text-align: center;
+    margin-left:70px;
+}
+table thead{
+    background-color: brown;
+    color: white;
+    border: 1px solid black;
+}
+th{
+    padding: 16px 50px;
+    
+}
+td{
+border-bottom: 2px solid black;
+padding-top: 10px;
+}
+.tabla h4{
+   border-bottom: 1px solid;
+   border-left: 1px solid;
+   border-right: 1px solid;
+    width: 180px;
+    text-align: center;
+    margin-left: 680px;
+    padding-top: 5px;
+}
+.tabla button{
+    position: relative;
+    background-color: rgb(8, 88, 248);
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    top: 120px;
+    left: 340px;
+    padding: 5px;
+    
+}
+/*seccion de arriba*/
+.arriba{
+    margin-left: 70px;
+    padding-top: 10px;
+}
+
+/*seccion de abajo*/ 
+.abajo{
+    position: relative;
+    margin-left: 70px;
+    bottom: 70px;
+}
+/*estilos para pedidos*/
+.pedidos{
+    width: 800px;
+    height: 640px;
+    border: 2px solid black;
+    background-color: aqua;
+    margin-left: 300px;
+    margin-top: 20px;
+    padding: 30px 50px;
+    padding-bottom: 30px;
+}
+.pedidos h2{
+    text-align: center;
+    padding-top: 10px;
+}
+.productos{
+   margin-top: 20px;
+   background-color: antiquewhite;
+   border: 2px solid black;
+   padding: 20px;
+   height: 230px;
+
+}
+.productos li{
+    border-bottom: 2px solid black;
+    padding-top: 10px;
+    padding-left:10px;
+   
+}
+.productos h5{
+    padding-bottom: 5px;
+}
+.pedidos button{
+    background-color: rgb(0, 72, 255);
+    color: white;
+    margin-left: 550px;
+    width: 140px;
+    margin-top: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+.numeromesa p{
+ margin-top: 30px;
+}

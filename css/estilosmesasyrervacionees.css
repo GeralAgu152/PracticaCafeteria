@@ -1,0 +1,392 @@
+.lateral nav{
+ position: relative;
+ bottom: 400px;
+ 
+ }
+ .lateral nav ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+ }
+ .lateral nav li{
+  margin: 25px 10px;
+ }
+ .lateral nav a{
+    padding: 8px;
+     background-color: aqua;
+     color: black;
+     text-decoration: none;
+     border: 2px solid black;
+ }
+
+
+.
+
+
+/*reservacione  */
+
+  
+
+/*Secccion de mesas*/
+.lateralmesa nav{
+    
+    position: relative;
+    bottom: 470px;
+    
+    }
+    .lateralmesa nav ul{
+     list-style: none;
+     margin: 0;
+     padding: 0;
+    }
+    .lateralmesa nav li{
+     margin: 25px 10px;
+    }
+    .lateralmesa nav a{
+        text-align: center;
+       padding: 8px;
+        background-color: aqua;
+        color: black;
+        text-decoration: none;
+        border: 2px solid black;
+    }
+    .mesas{
+        
+        padding-top: 20px;
+        margin: 0 auto;
+        margin-top: 20px;
+        background-color: aqua;
+        height: 500px;
+        width: 660px;
+        border: 1px solid black;
+    
+    }
+    .mesas h2{
+        text-align: center;
+    }
+    .mesasreserva{
+        position: relative;
+        bottom: 200px;
+        margin-top: 20px;
+        padding-top: 20px;
+        position: relative;
+        margin-left: 600px;
+        background-color: aqua;
+        height: 500px;
+        width: 660px;
+        border: 1px solid black;
+    }
+   .mesasreserva h2{
+    text-align: center;
+   }
+    .dispo h4{
+        margin-top: 30px;
+        display: inline-block;
+        margin-right: 70px;
+        position: relative;
+        left: 50px;
+    }
+    .dispo div{
+        display: inline-block;
+        margin-right: 278px;
+        position: relative;
+        left: 260px;
+        bottom: 35px;
+    }
+    .verde{
+        height: 30px;
+        width: 30px;
+        background-color: rgb(18, 221, 18);
+    }
+    .rojo{
+        height: 30px;
+        width: 30px;
+        background-color: red;
+    }
+    
+    .grupo1 button{
+        color: white;
+        position: relative;
+        left: 24px;
+        padding: 15px;
+        margin-left: 50px;
+        margin-top: 10px;
+        border: 1px solid black;
+    }
+    .grupo2 button{
+        color: white;
+        position: relative;
+        left: 24px;
+        padding: 15px;
+        margin-left: 50px;
+        margin-top: 50px;
+        border: 1px solid black;
+    }
+    .botones button{
+        position: relative;
+        left: 286px;
+        margin: 70px 7px;
+        background-color: rgb(0, 119, 255);
+        color: white;
+        border: 1px solid white;
+        border-radius:6px;
+        padding: 8px;
+    }
+    /* Color de mesas*/
+    .boton1{
+      background-color:  rgb(18, 221, 18);
+    }
+    .boton2{
+        background-color: red;
+    }
+    .boton3{
+      background-color:  rgb(18, 221, 18);
+    }
+    .boton4{
+      background-color:  rgb(18, 221, 18);
+    }
+    .boton5{
+      background-color: red;
+    }
+    .boton6{
+        background-color: red;
+    }
+    .boton7{
+        background-color:  rgb(18, 221, 18);
+        
+    }
+    .boton8{
+        background-color:  rgb(18, 221, 18);
+    }
+    
+    /*Estilos para reservaciones */
+    
+   
+
+    .formula{
+        max-width: 500px;
+        border: 1px solid black;
+      padding: 20px;
+      margin: 0 auto;
+    background-color: aqua;
+    margin-top: 20px;
+    }
+    
+   .formula form{
+    max-width: 400px;
+    margin: 0 auto;
+   }
+    
+    .formula button{
+        margin-top: 5px;
+        background-color: blue;
+        color: white;
+        border: 1px solid white;
+        border-radius: 2px;
+        padding: 5px 15px;
+        margin-left: 310px;
+    }
+
+    .formula label{
+        display: block;
+        margin-bottom: 4px;
+        margin-left: 5px;
+    }
+
+    .formula input{
+        width: 100%;
+        padding: 3px;
+        margin-bottom: 10px;
+
+    }
+    .formula h2{
+     text-align:  center;
+    }
+
+
+
+
+.agregarproducto{
+        max-width: 370px;
+        border: 1px solid black;
+      padding: 20px;
+     margin-left: 20px;
+    background-color: aqua;
+    margin-top: 20px;
+    }
+    
+   .agregarproducto form{
+    max-width: 400px;
+    margin: 0 auto;
+   }
+    
+    .agregarproducto button{
+        margin-top: 5px;
+        background-color: blue;
+        color: white;
+        border: 1px solid white;
+        border-radius: 2px;
+        padding: 5px 15px;
+        margin-left: 233px;
+    }
+
+    .agregarproducto label{
+        display: block;
+        margin-bottom: 4px;
+        margin-left: 5px;
+    }
+    .agregarproducto textarea{
+        width: 100%;
+    }
+    .categoriasproducto{
+        width: 100%;
+        padding: 4px;
+        margin-bottom: 10px;
+    }
+    .agregarproducto input{
+        width: 100%;
+        padding: 3px;
+        margin-bottom: 10px;
+        
+    }
+    .agregarproducto h2{
+     text-align:  center;
+    }
+    /*Estilos para las tablas de los productos que se han registrados*/
+    .Menu-diario{
+        background-color:antiquewhite;
+        max-width: 910px;
+        position: relative;
+        left: 420px;
+        bottom: 578px;
+        padding: 20px;
+        border: 1px solid black;
+    }
+    .Menu-diario h4{
+        text-align: center;
+    }
+
+    .Menu-diario th{
+        background-color: aqua;
+        border: 1px solid black;
+        text-align: center;
+        padding: 5px 10px;
+    }
+    .Menu-diario td{
+        border: 1px solid black;
+        text-align: center;
+        padding: 3px;
+    }
+    .Menu-diario input{
+        width: 25px;
+        height: 25px;
+    }
+   .Menu-diario button{
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+   }
+
+   
+       /*Estilos para la tabla de la categoria de cafe*/
+    
+.categorias-cafeteria{
+        background-color:antiquewhite;
+        max-width: 660px;
+        padding: 20px;
+        border: 1px solid black;
+        position: relative;
+        bottom: 500px;
+        left: 680px;
+    }
+.categorias-cafeteria h4{
+    text-align: center;
+
+}
+.categoriacafe th{
+        background-color: aqua;
+        border: 1px solid black;
+        text-align: center;
+        padding: 5px;
+    }
+    .categoriacafe td{
+        border: 1px solid black;
+        text-align: center;
+        padding: 3px;
+    }
+    .categoriacafe input{
+        width: 25px;
+        height: 25px;
+    }
+   .categoriacafe button{
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+           
+    }
+.categorias-cafeteria1{
+         background-color:antiquewhite;
+        max-width: 660px;
+        position: relative;
+        left: 10px;
+      bottom: 714px;
+        padding: 20px;
+        border: 1px solid black;  
+}
+.categorias-cafeteria1 h4{
+    text-align: center;
+}
+.categoriabebidas th{
+        background-color: aqua;
+        padding: 5px;
+        border: 1px solid black;
+        text-align: center;
+        
+    }
+    .categoriabebidas td{
+        border: 1px solid black;
+        text-align: center;
+        padding: 3px;
+    }
+    .categoriabebidas input{
+        width: 25px;
+        height: 25px;
+    }
+   .categoriabebidas button{
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+           
+    }
+.categorias-cafeteria2{
+       background-color:antiquewhite;
+        max-width: 780px;
+        position: relative;
+        left: 420px;
+        bottom: 578px;
+        padding: 20px 10px;
+        border: 1px solid black;
+}
+
+.categoriapastelillos th{
+        background-color: aqua;
+        border: 1px solid black;
+        text-align: center;
+        padding: 5px;
+    }
+    .categoriapastelillos td{
+        border: 1px solid black;
+        text-align: center;
+        padding: 3px;
+    }
+    .categoriapastelillos input{
+        width: 25px;
+        height: 25px;
+    }
+   .categoriapastelillos button{
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+           
+    }
+    
